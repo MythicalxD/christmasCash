@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263924007179",
+    "project_id": "christmas-a993e",
+    "storage_bucket": "christmas-a993e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263924007179:android:070fe4fd68e107fd21e20e",
+        "android_client_info": {
+          "package_name": "com.earn.christmas_cash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbZn31fDWECgsPtsC0zjT3WKF-Kd8vhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
